@@ -71,4 +71,4 @@ To gift NFT owner should send internal message to NFT with comment in format:
 For example:
 
 
-```giftTo:0:f814fabe3d10e27b240a922cc54d1b520f2b9c508aab8f4bffcd7266a9a0e9eb```
+```giftTo:0:f814fabe3d10e27b240a922cc54d1b520f2b9c508aab8f4bffcd7266a9a0e9eb``` 
